@@ -80,7 +80,7 @@
     "url-loader": "^0.5.7",
     "vue": "^2.3.2",
     "vue-server-renderer": "^2.3.2",
-    "vue-template-compiler": "^2.3.2",
+    "vue-template-compiler-reverse-trace": "^2.3.2",
     "webpack": "^2.2.0"
   }
 }
