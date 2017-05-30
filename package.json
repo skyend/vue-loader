@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skyend/vue-loader.git"
+    "url": "https://github.com/skyend/vue-loader-reverse-tracing-bridge.git"
   },
   "keywords": [
     "vue",
@@ -19,9 +19,9 @@
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-loader/issues"
+    "url": "https://github.com/vuejs/vue-loader-reverse-tracing-bridge/issues"
   },
-  "homepage": "https://github.com/vuejs/vue-loader",
+  "homepage": "https://github.com/vuejs/vue-loader-reverse-tracing-bridge",
   "scripts": {
     "lint": "eslint lib",
     "test": "eslint lib && mocha --slow 5000 --timeout 10000",
