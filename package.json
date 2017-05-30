@@ -1,6 +1,6 @@
 {
   "name": "vue-loader-reverse-tracing-bridge",
-  "version": "12.2.4",
+  "version": "12.2.5",
   "description": "Vue single-file component loader for Webpack",
   "main": "index.js",
   "repository": {
@@ -45,7 +45,7 @@
   },
   "peerDependencies": {
     "css-loader": "*",
-    "vue-template-compiler": "^2.0.0"
+    "vue-template-compiler-reverse-trace": "^2.3.2"
   },
   "devDependencies": {
     "babel-core": "^6.8.0",
