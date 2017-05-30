@@ -21,3 +21,14 @@ npm run dev
 This will setup a basic Webpack + `vue-loader` project for you, with `*.vue` files and hot-reloading working out of the box!
 
 For advanced `vue-loader` configuration, checkout the [documentation](https://vue-loader.vuejs.org).
+
+
+# Additional Option
+
+injectPathTemplateRootElement : inject at template root element attributes
+
+```
+ injectPathTemplateRootElement: true,
+ 
+ --> <div ___comp_path="./src/components/Header.vue"></div>
+```
